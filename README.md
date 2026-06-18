@@ -1,4 +1,4 @@
-#🌾 KrishiSetu – Smart Agriculture Management Platform
+# KrishiSetu – Smart Agriculture Management Platform
 
 KrishiSetu is a full-stack agriculture management platform designed to digitally empower farmers and agricultural businesses by providing a centralized ecosystem for farm operations, crop management, marketplace interactions, and order processing.
 
